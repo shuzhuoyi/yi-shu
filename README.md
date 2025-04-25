@@ -30,7 +30,9 @@
 
 ### 安装包下载
 
-- **iOS**: [下载iOS安装包](https://github.com/shuzhuoyi/yi-shu/raw/main/iaapp/build-packages/AppRelease-iOS.ipa) (需要自行签名后安装)
+- **iOS**: 
+  - [下载iOS安装包(IPA)](https://github.com/shuzhuoyi/yi-shu/raw/main/iaapp/build-packages/AppRelease-iOS.ipa) (需要自行签名后安装)
+  - [下载iOS安装包(ZIP)](https://github.com/shuzhuoyi/yi-shu/raw/main/iaapp/build-packages/AppRelease-iOS.zip) (备用下载)
 - **Android**: 暂未提供，需要在本地构建
 
 ## 项目结构
@@ -71,6 +73,10 @@
 ## 联系方式
 
 如有任何问题，请联系项目维护者。
+
+## 免责声明
+
+图片如有侵权的内容，请联系zhong@1231212@163.com，我会在24小时内删除！
 
 ## 许可证
 
