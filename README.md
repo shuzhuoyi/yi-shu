@@ -28,6 +28,11 @@
 4. 安装依赖：`flutter pub get`
 5. 运行项目：`flutter run`
 
+### 安装包下载
+
+- **iOS**: [下载iOS安装包](https://github.com/shuzhuoyi/yi-shu/raw/main/iaapp/build-packages/AppRelease-iOS.zip) (需要自行签名后安装)
+- **Android**: 暂未提供，需要在本地构建
+
 ## 项目结构
 
 - **lib/screens/**: 应用的各个页面
