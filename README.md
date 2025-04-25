@@ -47,22 +47,22 @@
 ### 首页
 首页提供分类导航和热门推荐内容，包括电影、连续剧、综艺和动漫等多种类别。用户可以通过顶部的搜索框快速查找内容。
 
-![首页截图](https://raw.githubusercontent.com/shuzhuoyi/yi-shu/main/screenshots/home.jpg)
+![首页截图](https://raw.githubusercontent.com/shuzhuoyi/yi-shu/main/iaapp/screenshots/home.jpg)
 
 ### 视频详情页
 视频详情页展示了影片的基本信息、播放源选择和剧集选择。用户可以收藏、分享或下载视频，还可以查看相关推荐。
 
-![详情页截图](https://raw.githubusercontent.com/shuzhuoyi/yi-shu/main/screenshots/detail.jpg)
+![详情页截图](https://raw.githubusercontent.com/shuzhuoyi/yi-shu/main/iaapp/screenshots/detail.jpg)
 
 ### 排行榜
 排行榜页面展示了热播榜、电影榜、剧集榜和综艺榜等多种分类的排名，帮助用户发现热门内容。
 
-![排行榜截图](https://raw.githubusercontent.com/shuzhuoyi/yi-shu/main/screenshots/ranking.jpg)
+![排行榜截图](https://raw.githubusercontent.com/shuzhuoyi/yi-shu/main/iaapp/screenshots/ranking.jpg)
 
 ### 用户中心
 用户中心包含观看历史、收藏内容、下载管理等功能，还提供应用分享、清理缓存和设置等选项。
 
-![用户中心截图](https://raw.githubusercontent.com/shuzhuoyi/yi-shu/main/screenshots/profile.jpg)
+![用户中心截图](https://raw.githubusercontent.com/shuzhuoyi/yi-shu/main/iaapp/screenshots/profile.jpg)
 
 ## 贡献指南
 
